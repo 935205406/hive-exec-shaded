@@ -9,4 +9,4 @@ hive-exec-shaded used to generate a hive-exec-shaded.jar to be used in flink-hiv
 为了保持修改后的 hive-exec-shaded.jar 与之前的 hive-exec.jar 大小差不多。
 hive-exec-shaded.jar 在插件 maven-shade-plugin 中，比对原有的 hive-exec.jar 的内容进行打包，保证两个jar的内容相差不大
 
-Flink 与 Hive 的集成，见项目：
+Flink 与 Hive 的集成，见项目：https://github.com/935205406/flink-hive-integration-demo
